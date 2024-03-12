@@ -12,7 +12,7 @@ https://github.com/IamSarojtmg/Backend_project
 Node.js
 
 ### Running dev server
-`npm run dev`
+>npm run dev
 
 ### installing dependencies
 >npm install
